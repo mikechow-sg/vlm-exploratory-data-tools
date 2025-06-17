@@ -28,5 +28,5 @@ git clone https://github.com/YOUR-Username/YOUR-Repo-Name.git
 cd vlm-exploratory-data-tools
 
 ---
-
-This repository is in support of a MA Thesis project at the University of Amsterdam and was supervised by Dr. Bernhard Rieder. Please read the main paper for more details!
+```
+This repository is in support of an MA Thesis project at the University of Amsterdam under the Media Studies Department. It was supervised by Dr. Bernhard Rieder. Please read the main paper for more details!
