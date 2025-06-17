@@ -1,0 +1,7 @@
+model_name,prompt,col_list,alpha_ord,rows_with_nan,alpha_nom
+qwen2.5-vl-7b-instruct,1a,"['shot_scale_vlm_1a_01', 'shot_scale_vlm_1a_02', 'shot_scale_vlm_1a_03']",0.9568605368754267,114,0.8831052673052663
+qwen2-vl-7b-instruct,1a,"['shot_scale_vlm_1a_06', 'shot_scale_vlm_1a_07', 'shot_scale_vlm_1a_08']",0.891731239114783,64,0.7635506978474981
+qwen2.5-vl-7b-instruct,1b,"['shot_scale_vlm_1b_01', 'shot_scale_vlm_1b_02', 'shot_scale_vlm_1b_03']",0.9701085364251323,12,0.9408728039961933
+qwen2-vl-7b-instruct,1b,"['shot_scale_vlm_1b_06', 'shot_scale_vlm_1b_07', 'shot_scale_vlm_1b_08']",0.9300240453062365,7,0.8361717334150138
+qwen2.5-vl-7b-instruct,1c,"['shot_scale_vlm_1c_01', 'shot_scale_vlm_1c_02', 'shot_scale_vlm_1c_03']",0.953186662578309,161,0.8891191794116321
+qwen2-vl-7b-instruct,1c,"['shot_scale_vlm_1c_06', 'shot_scale_vlm_1c_07', 'shot_scale_vlm_1c_08']",0.8720069580799577,56,0.7434955919640318
